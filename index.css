@@ -1,0 +1,117 @@
+* {
+  margin: 0px;
+  padding: 0;
+  list-style: none;
+}
+.content {
+  width: 900px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+.head {
+  -moz-text-decoration-color: cadetblue;
+  width: 100%;
+  height: 150px;
+  background: burlywood;
+  float: left;
+  line-height: 80px;
+}
+.geren{
+  margin-top: 30px;
+  text-align: center;
+}
+.image {
+  background-color: cadetblue;
+  float: left;
+  width: 269px;
+  height: 150px;
+  background: url(./image/310095.jpg) no-repeat;
+  background-size: 267px;
+  margin-left: 181px;
+}
+.biaoti {
+  width: 160px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  background: #c0c0c0;
+  float: left;
+  height: 100px;
+  line-height: 100px;
+  margin-top: 4px;
+  text-align: center;
+}
+.neirong {
+  width: 720px;
+  background: burlywood;
+  height: 98px;
+  float: right;
+  margin-top: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+}
+.neirong_project {
+  width: 720px;
+  background: burlywood;
+  height: 110px;
+  float: right;
+  margin-top: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+}
+.biaoti_project {
+  width: 160px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  background: #c0c0c0;
+  float: left;
+  height: 112px;
+  line-height: 100px;
+  margin-top: 4px;
+  text-align: center;
+}
+.neirong_baseinfo {
+  width: 720px;
+  background: burlywood;
+  height: 110px;
+  float: right;
+  margin-top: 4px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+}
+.biaoti_baseinfo {
+  width: 160px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  background: #c0c0c0;
+  float: left;
+  height: 112px;
+  line-height: 100px;
+  margin-top: 4px;
+  text-align: center;
+}
+/* .neirong p {
+  vertical-align: middle;
+} */
+.botom_1{
+  float: left;
+  width: 900px;
+}
+.botom_2{
+  float: left;
+  width: 900px;
+  font-style: italic;
+}
+.botom_3{
+  float: left;
+  width: 900px;
+  background-color: #c0c0c0;
+}
